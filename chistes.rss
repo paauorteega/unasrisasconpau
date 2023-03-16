@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Chistes Audios</title>
+    <link>https://ejemplo.com/historias</link>
+    <description>Este canal incluye las 3 historias más interesantes publicadas en nuestra página web.</description>
+    <language>es-es</language>
+    <item>
+      <title>Chiste Audio 3</title>
+      <link>https://ejemplo.com/historias/descubrimiento-america</link>
+      <description>En esta historia, se cuenta la aventura de Cristóbal Colón y su llegada a América en 1492.</description>
+      <pubDate>Wed, 08 Feb 2023 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chiste Audio 2</title>
+      <link>https://ejemplo.com/historias/revolucion-francesa</link>
+      <description>En esta historia, se describe la lucha del pueblo francés por la libertad y la igualdad durante la Revolución Francesa en el siglo XVIII.</description>
+      <pubDate>Wed, 09 Feb 2023 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chiste Audio 3</title>
+      <link>https://ejemplo.com/historias/revolucion-francesa</link>
+      <description>En esta historia, se describe la lucha del pueblo francés por la libertad y la igualdad durante la Revolución Francesa en el siglo XVIII.</description>
+      <pubDate>Wed, 09 Feb 2023 12:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

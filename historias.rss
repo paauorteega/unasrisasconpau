@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Historias Chistosas</title>
+    <link>https://chistesgeniales.com.co/</link>
+    <description>Este canal incluye las 3 historias chistosas más interesantes publicadas en nuestra página web.</description>
+    <language>es-es</language>
+    <item>
+      <title>Historia chistosa 1: Lo último en tecnología</title>
+      <link>https://chistesgeniales.com.co/lo-ultimo-en-tecnologia/</link>
+      <description>Hay problemas que hasta la más refinada tecnología los soluciona de la manera más simple.</description>
+      <pubDate>Wed, 08 Feb 2023 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Historia chistosa 2: El sacerdote sincero</title>
+      <link>https://chistesgeniales.com.co/el-sacerdote-sincero-chistes-geniales/</link>
+      <description>Pasando una plancha de cabello por la aduana, una distinguida dama venía en un vuelo de Irlanda...</description>
+      <pubDate>Wed, 08 Feb 2023 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Historia chistosa 3: Chiste de Pepito y Jaimito</title>
+      <link>https://chistesgeniales.com.co/chistes-de-pepito-y-jaimito-con-la-letra-r/</link>
+      <description>Como se conocieron la nueva profesora de educacion fisica y Jaimito.</description>
+      <pubDate>Wed, 08 Feb 2023 12:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
